@@ -1,0 +1,8 @@
+.hello {
+  background-attachment: none;
+  columns: 2;
+  padding: 10px;
+  max-width: 22;
+  left: auto;
+  ruby-merge: auto;
+}
